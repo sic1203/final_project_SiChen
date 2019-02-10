@@ -13,7 +13,8 @@ MY audience
   * What factors are the main reason for the difference in housing price  
   
 **Datasets**  
-[My data comes from Kaggle.com](https://www.kaggle.com/ruiqurm/lianjia)  
+[My data comes from Kaggle.com, click it to review and download the datasets](https://www.kaggle.com/ruiqurm/lianjia) 
+*Source:* Qiu, Qichen. "Housing Price in Beijing." RSNA Pneumonia Detection Challenge | Kaggle. July 07, 2018. Accessed February 10, 2019. https://www.kaggle.com/ruiqurm/lianjia.
 
 This datasets collect a lot of house selling and renting information from Lianjia, a major Chinese estate agency. It contains almost 100 thousand observations. The main attributes I will use to storytelling is the price, square, living room, drawing room, kitchen, bathroom, floor, building type, renovationCondition, building structure, and elevator.  
 
